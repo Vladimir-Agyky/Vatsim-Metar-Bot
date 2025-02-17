@@ -7,3 +7,6 @@ Embed real-time METAR for every airport worldwide.
 Insert your Discord bot's TOKEN here
 
 You need to enable / command on developer website
+
+
++ I'm making something that brings in the Vatsim event. Vatsim even API is there check it out (event.py)
